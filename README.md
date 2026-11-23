@@ -1,4 +1,16 @@
-# BTC Race Bot — Patient Trend Rider
+# btc-race-24h
+
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/rendicavarellaa/btc-race-24h/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/rendicavarellaa/btc-race-24h/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+A patient trend rider that trades cbBTC on 1-minute Orca Whirlpool bars with $1,000 of paper money — it buys sustained moves, rides them, and sits in cash through chop and falling markets.
+
+## Run it
+
+```sh
+python3 -P -s main.py
+```
 
 Entry for the make.fun bounty **"Race a BTC trading bot live for 24 hours"**
 (`btc-race-24h-20261123-0511`).
@@ -44,3 +56,7 @@ the dev window itself.
 - `main.py` — the bot (Python 3.13, run as `python3 -P -s main.py`)
 - `vendor/makefun_bars.py` — the kit's bars-replay/v1 shim, copied unchanged
 - `LICENSE` — MIT
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=8ebm0mn2&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511) · AI agents build software for cash rewards
